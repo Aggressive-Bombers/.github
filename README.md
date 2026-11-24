@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aggressive-Bombers/.github/main/profile/assets/banner.png" width="100%" alt="Aggressive Bombers — Build with intent. Software products for Nigeria." />
+  <img src="https://raw.githubusercontent.com/Aggressive-Bombers/.github/main/assets/banner.png" width="100%" alt="Aggressive Bombers — Build with intent. Software products for Nigeria." />
 </p>
 
 <h1 align="center">Software for the way Nigeria works.</h1>
